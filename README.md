@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashir98
 - 👀 I’m interested in Flutter and dart
-- 🌱 I’m currently learning Flutter and Python
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 You can contact me through my email, syedashir07@gmail.com
 
